@@ -1,4 +1,5 @@
 ## 静态住宅ip购买海外代理ip动态住宅ip购买
+
 作为 AIMultiple 的 CTO，我负责从 4 个评论平台和数千个 B2B 技术供应商网站收集数据。这些网站中的大多数都依赖于反抓取措施。我们运行住宅[代理基准测试](https://research.aimultiple.com/proxy-benchmark/)来确定最佳解决方案。点击链接了解我为何包含这些解决方案：
 
 1. **[Bright Data](https://research.aimultiple.com/residential-proxy-providers/#1-bright-data)** 适合寻求合规性和高级功能的企业用户。
@@ -21,7 +22,7 @@
 
 ## 住宅代理服务的价格是多少？
 
-| 供应商 | 每月价格 | 流量（GB） | 付费/GB\*\* | 免费试用 |
+| 供应商 | 每月价格 | 流量（GB） | 现收现付/GB\*\* | 免费试用 |
 | --- | --- | --- | --- | --- |
 | [光明数据](https://get.brightdata.com/lp-proxy-network2355?sid=residential-proxy-providers) | 500美元  
  | 69 | 8.4美元 | 7 |
@@ -49,7 +50,7 @@
 
 请参阅以下**顶级住宅代理提供商**在[网页解锁](https://research.aimultiple.com/web-unblockers/)、**定价、企业就绪性**和**性能**方面的**功能**，如 AIMultiple 的[代理基准](https://research.aimultiple.com/proxy-benchmark/)所证明的那样。[](https://research.aimultiple.com/web-unblockers/)[](https://research.aimultiple.com/proxy-benchmark/)
 
-| 提供者 | 等级 | 解锁器 | 表现 | 响应时间 | 袜子5 | 城市级定位 |
+| 提供者 | 等级 | 解锁器 | 表现 | 响应时间 | SOCKS5 | 城市级定位 |
 | --- | --- | --- | --- | --- | --- | --- |
 | [光明数据](https://get.brightdata.com/lp-proxy-network2355?sid=residential-proxy-providers) | 254 颗星中的 4.7 颗星 | ✅ | 83-94％ | 8-14秒 | ✅ | ✅ |
 | [氧实验室](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=845&url_id=137&aff_sub=residential-proxy-providers) | 89 颗星中的 4.5 颗星 | ✅ | 83-94％ | 5 秒 | ✅ | ✅ |
@@ -336,7 +337,7 @@ IPRoyal 是可靠的代理提供商之一，提供 200 万个轮换住宅代理�
 - 他们不提供即用即付计划或小数据包选项。[<sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">二十七</font></font></sup>](https://research.aimultiple.com/residential-proxy-providers/#easy-footnote-bottom-27-6233327 "G2、SOAX 评论")
 - 一些高级功能的学习曲线可能会对初学者具有挑战性。[<sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">二十八</font></font></sup>](https://research.aimultiple.com/residential-proxy-providers/#easy-footnote-bottom-28-6233328 "G2、SOAX 评论")
 
-## 10\. 因法蒂卡
+## 10.Infatica
 
 Infatica 的住宅代理网络包括 1000 万个与 HTTP/SOCKS 协议兼容的住宅 IP 地址。您可以选择在 IP 更改之前最多保留 30 分钟。
 
